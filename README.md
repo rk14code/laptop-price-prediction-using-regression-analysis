@@ -39,9 +39,9 @@ Each row represents a laptop model with its technical configuration and final se
 
 **GPU Brand** – GPU vendor (Intel, Nvidia, AMD).​
 
-**HDD / SSD** – separate numeric capacities extracted from the composite Memory column.​
+**HDD & SSD** – separate numeric capacities extracted from the composite Memory column.​
 
-**Touchscreen / IPS** – binary indicators parsed from ScreenResolution text.
+**Touchscreen & IPS** – binary indicators parsed from ScreenResolution text.
 ___
 
 ## 🛠️ Skills & Tools Used
